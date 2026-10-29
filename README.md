@@ -85,4 +85,4 @@ Python (pandas, NumPy) · scikit-learn · XGBoost · CatBoost · Matplotlib · S
 - Nights booked are Inside Airbnb estimates, not actual booking records.
 
 ## 👤 Author
-**Paige (Ha Phuong Dinh)** · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Paige (Ha Phuong Dinh)** · [LinkedIn](https://www.linkedin.com/in/phuonghadinh/)
